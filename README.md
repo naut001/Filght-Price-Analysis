@@ -5,3 +5,9 @@ Phân tích tập dữ liệu đặt vé máy bay thu được từ trang web �
 - Xây dựng mô hình định giá vé máy bay theo yêu cầu của người dùng
 - Chạy các mô hình máy học liên quan với bộ dữ liệu huấn luyện
 - Kiểm định mô hình với bộ dữ liệu thực tế
+
+Tài liệu tham khảo:
+
+Flight Price Prediction. (n.d). Retrieved June 17, 2022, from https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction.
+
+Flight Price Solution Challenge. (n.d). Retrieved June 17, 2022, from https://www.kaggle.com/code/omarmohamedelgharib/flightpricesolutionchallenge.
